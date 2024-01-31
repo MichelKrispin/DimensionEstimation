@@ -1,6 +1,6 @@
 # Dimension Estimation
 
-Estimate the intrinsic dimension of a dataset based upon [Dimension estimation using random connection models](https://dl.acm.org/doi/10.5555/3122009.3208019) from Paulo Serra and Michel Mandjes.
+Estimate the intrinsic dimension of a dataset based upon [Dimension estimation using random connection models](https://dl.acm.org/doi/10.5555/3122009.3208019) by Paulo Serra and Michel Mandjes.
 
 The basis of the python backend to website connection is very similar to my [Numerical ODE Visualizer](https://github.com/MichelKrispin/NumericalODEVisualizer) and more generally to [wepps](https://github.com/Parallel-in-Time/wepps).
 
